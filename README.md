@@ -11,9 +11,21 @@
 ##
 ### Recent Projects:
 [Rock-Paper-Scissors-Lizard-Spok](https://sintomas.github.io/canvas-project-RPSLS/) - 2D game inspired by the The Big Bang Theory franchise    |    [Did you go to the beach?]() - Platform to search and add your favourite beaches!    |    [Art Lab](https://exquisite-starburst-8c9add.netlify.app/) - Platform for artists to showcase and sell their illustrations.
-
 ##
-[![My Skills](https://skillicons.dev/icons?i=js,mongodb,react,express,nodejs,html,css,bootstrap,github,netlify)](https://skillicons.dev)
+<br>
+<p align="center" target="_blank" >
+    <a href="https://www.codewars.com/users/m_pinheiro" >
+    <img align="center"
+    src="https://www.codewars.com/users/m_pinheiro/badges/large"
+    alt="m_pinheiro">
+    </a>
+</p>
+<br>
+<p align="center" ><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marisa-Pinheiro&layout=compact"></p>
+<br>
+<p align="center" ><img align="center"
+    src="https://skillicons.dev/icons?i=js,ts,mongodb,react,express,nodejs,html,css,bootstrap,github,postman,bootstrap,netlify,vscode,xd,figma)](https://skillicons.dev"></p>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -23,8 +35,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
-##
 ### 
 ##
--->
+
