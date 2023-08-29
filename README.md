@@ -20,9 +20,10 @@
     alt="m_pinheiro">
     </a>
 </p>
-<!-- <br> -->
-<!-- <p align="center" ><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marisa-Pinheiro&layout=compact"></p> -->
+
+<br> 
+<p align="center" ><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Marisa-Pinheiro&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"></p> 
 <br>
 <p align="center" ><img align="center"
     src="https://skillicons.dev/icons?i=js,ts,mongodb,react,express,nodejs,html,css,bootstrap,github,postman,bootstrap,netlify,vscode,xd,figma)](https://skillicons.dev"></p>
