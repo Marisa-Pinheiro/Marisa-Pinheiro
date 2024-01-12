@@ -9,9 +9,6 @@
 - 📫 [Contact me through Linkedin](https://www.linkedin.com/in/marisa-pinheiro-833a12113/)
 
 ##
-### Recent Projects:
-[Rock-Paper-Scissors-Lizard-Spok](https://sintomas.github.io/canvas-project-RPSLS/) - 2D game inspired by the The Big Bang Theory franchise    |    [Did you go to the beach?]() - Platform to search and add your favourite beaches!    |    [Art Lab](https://exquisite-starburst-8c9add.netlify.app/) - Platform for artists to showcase and sell their illustrations.
-##
 <br>
 <p align="center" target="_blank" >
     <a href="https://www.codewars.com/users/m_pinheiro" >
