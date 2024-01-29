@@ -29,6 +29,7 @@
 ##
 ### Badges
 
+![google-ux-design-professional-certificate 2 (1)](https://github.com/Marisa-Pinheiro/Marisa-Pinheiro/assets/125761696/91cd9e5e-f1d3-49fb-afcb-35092613c5c4)
 ![introduction-to-enterprise-computing](https://github.com/Marisa-Pinheiro/Marisa-Pinheiro/assets/125761696/01aff157-08e0-4ec4-ac32-c2f5b92993a8)
 
 
